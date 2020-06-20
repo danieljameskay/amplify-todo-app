@@ -1,3 +1,8 @@
+## Basic Amplify App
+
+This is an application that was created following https://docs.amplify.aws/start/q/integration/react. This repo has been created for reference.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
